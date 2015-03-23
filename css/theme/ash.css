@@ -12,7 +12,7 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #C8E370;
+  background: #cccccc;
   background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #333333 100%);
   background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #333333));
   background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #333333 100%);
@@ -67,6 +67,15 @@ body {
 width: 50%;
 }
 
+.reveal .w33 {
+width: 33%;
+    font-family: "Oxygen", sans-serif;
+  font-size: 28px;
+    letter-spacing: -0.01em;
+  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+  color: #000;
+}
+
 /*********************************************
  * LINKS
  *********************************************/
@@ -89,7 +98,7 @@ width: 50%;
   background: #264c66; }
 
 .reveal blockquote {
-	background: #aac7ef;
+	background: #EBEBEB;
 	border-color: #6b3241;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);}
 
@@ -104,7 +113,7 @@ width: 50%;
   font-size: 25px;
   font-weight: normal;
   letter-spacing: -0.02em;
-  color: #333333;
+  color: #222222;
       margin: 0 auto;
   background: white;
     
@@ -137,19 +146,19 @@ width: 50%;
  *********************************************/
 .reveal .controls div.navigate-left,
 .reveal .controls div.navigate-left.enabled {
-  border-right-color: #222222; }
+  border-right-color: #FFF; }
 
 .reveal .controls div.navigate-right,
 .reveal .controls div.navigate-right.enabled {
-  border-left-color: #222222; }
+  border-left-color: #FFF; }
 
 .reveal .controls div.navigate-up,
 .reveal .controls div.navigate-up.enabled {
-  border-bottom-color: #222222; }
+  border-bottom-color: #FFF; }
 
 .reveal .controls div.navigate-down,
 .reveal .controls div.navigate-down.enabled {
-  border-top-color: #222222; }
+  border-top-color: #FFF; }
 
 .reveal .controls div.navigate-left.enabled:hover {
   border-right-color: #74a7cb; }
@@ -182,12 +191,13 @@ width: 50%;
  *********************************************/
 .reveal .slide-number {
     font-family: "Exo", sans-serif;
-    font-size: 18px;
-    width: 50px;
+    font-size: 30px;
+    width: 76px;
     text-align: center;
-    color: #000; 
+    color: #000000;
+    background: #74a7cb;
     position: absolute;
-    bottom: 5px;
+    bottom: 7px;
     left: 5px;
     z-index:500;}
 
