@@ -12,13 +12,13 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #cccccc;
-  background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #333333 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #333333));
-  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #333333 100%);
-  background: -o-radial-gradient(center, circle cover, #f7fbfc 0%, #333333 100%);
-  background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #333333 100%);
-  background: radial-gradient(center, circle cover, #f7fbfc 0%, #333333 100%);
+  background: #BED0DA;
+  background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #BED0DA 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #BED0DA));
+  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #BED0DA 100%);
+  background: -o-radial-gradient(center, circle cover, #f7fbfc 0%, #BED0DA 100%);
+  background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #BED0DA 100%);
+  background: radial-gradient(center, circle cover, #f7fbfc 0%, #BED0DA 100%);
   background-color: #f7fbfc; }
 
 .reveal {
