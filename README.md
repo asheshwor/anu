@@ -4,7 +4,7 @@ This repository contains the presentation slides for our presentation at Climate
 
 View the presentation at [http://asheshwor.github.io/anu2015](http://asheshwor.github.io/anu2015/#/)
 
-View slides pdf: [asheshwor.github.io/anu2015?pdf-print](http://asheshwor.github.io/anu2015?pdf-print )
+View slides pdf: [asheshwor.github.io/anu2015?print-pdf](http://asheshwor.github.io/anu2015?print-pdf)
 
 Recommended browsers: Chrome, Safari, Firefox, Opera and IE10
 
